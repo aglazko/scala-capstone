@@ -1,0 +1,5 @@
+.csv
+.idea
+.DS_Store
+target/
+resources/
